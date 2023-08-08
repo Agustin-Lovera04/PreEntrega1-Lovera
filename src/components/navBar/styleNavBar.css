@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #9a0526;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: min-content;
+}
+.navbar-collapse{
+    flex-grow: 0 !important;
+}
+.container-fluid{
+    padding: 0;
+}
+
+.lgYTit{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+.logoStyle{
+    width: 200px;
+    height: 200px;
+}
+
